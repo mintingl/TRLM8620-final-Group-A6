@@ -24,7 +24,7 @@ class Order {
         var yyyy = this.orderDate.getFullYear();
 
         let date = mm + '/' + dd + '/' + yyyy;
-        return date;
+        return i18n.formatDate(this.orderDate);
     }
 
     //create a dummy "order status" string
