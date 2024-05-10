@@ -16,7 +16,7 @@ let OrderHistory = {
         let dateHeading = i18n.getString("OrderHistory", "dateHeading");
         let numberHeading = i18n.getString("OrderHistory", "numberHeading");
         let totalHeading = i18n.getString("OrderHistory", "totalHeading");
-        let statusHeading = i18n.getString("OrderHistory", "statusHeading");
+        let statusHeading = i18n.getString("OrderHistory", "statusHeading")
 
         //view is solely for HTML markup, contains no static text
         let view = `

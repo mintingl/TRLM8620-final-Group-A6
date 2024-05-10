@@ -69,6 +69,7 @@ var convertCurrency = (price) => {
         default:
             return price;
     }
-}
+};
+
 
 export default i18n;

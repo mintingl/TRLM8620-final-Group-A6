@@ -38,7 +38,7 @@ class Order {
             return "Processing";
         }
         if(diffDays < 4) {
-            return "Shipped"
+            return "Shipped";
         }
         else{
             return "Delivered";

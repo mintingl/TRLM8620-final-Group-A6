@@ -1,6 +1,6 @@
 {
     "home":{
-        "welcome": "Welcome come to Nail it!"
+        "welcome": "Welcome to Nail it!"
     },
     "browse":{
         "nails": "All Nails",
@@ -21,7 +21,6 @@
         "11": "Be Here Now",
         "12": "Y-Wing Fighter",
         "13": "Super Tactical Droid"
-        
     },
     "desc": {
         "1": "Here’s an exclusive line of the hottest nail designs that stay perfect for up to 7 days and at an affordable price. KISS Salon Design fake nails are a collection of salon quality, trendy designer nails that go on in an easy, one-step application.<br/>· On-trend glossy light multicolored glue-on designer nails are medium length & coffin shaped<br/>· Trendiest designs in the hottest shapes and lengths<br/>· Application takes minutes & wears up to a week<br/>· Nails are waterproof, no worries about color smudging or chipping, and no dry time needed!<br/>· Complete nail kit includes: 24 Fake Nails, Net Wt. 2 G (0.07 Oz.) Pink Gel Nail Glue, Mini File, & Manicure Stick",
@@ -35,6 +34,7 @@
         "9": "Explore the beauty of the season with KISS Voguish Fantasy Nails, designed to bring a touch of springtime to your fingertips. Bloom into effortless beauty, making your at-home DIY nail makeover a breeze.<br/>· On trend pink floral design nails are medium length and oval shaped<br/>· Durable & flexible with high shine & volume and gel top coat<br/>· Look natural and last for up to 7 days<br/>· Waterproof, smudge proof, & no dry time needed<br/>· DIY nail kit contains 28 fake nails, pink gel nail glue net wt. 2 g (0.07oz.), mini nail file, and manicure stick",
         "10": "KISS Gel Fantasy ready-to-wear gel finish Jelly nails have sheer color, 3D texture, and a colored glass-like effect that is beyond WOW! False nails in the chicest color and design mixes are ready-to-wear, durable, flexible, and so easy to apply!<br/>· On-trend blue translucent jelly nails are long length and coffin shaped<br/>· Hassle free removal won't damage your natural nails<br/>· Smudge-proof, waterproof, no dry time need, and hassle-free removal<br/>· Application takes minutes - up to 7-day wear<br/>· Kit includes 28 Fake Nails, Pink Gel Nail Glue (Net Wt. 2 G / 0.07oz.), Mini File, & Manicure Stick",
         "11": "Experience the beauty of Allure! The latest Gel Fantasy false nails feature a brand new utilization of 3D design--a unique layering process that allows for multiple 3D nail art options to create on-trend graphic designs, shapes, and special effects.<br/>· Nude sculpted medium coffin fashion nails have a dazzling 3D gemstone effect<br/>· Ready-to-wear gel nails go on in minutes and stay perfect for up to a week<br/>· Durable, flexible, and they never dull or chip<br/>· Special effects include water drops, squiggles, marbleized, pearlized, and more<br/>· Complete nail kit includes 28 fake nails, pink gel nail glue (2g), cuticle stick, & mini nail file",
+        "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
         "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
     },
     "Navbar": {
@@ -112,7 +112,7 @@
     "LocaleSelector": {
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
-        "localeZH": "Chinese - China"
+        "localeZH": "中文 - 中国"
     },
     "Special": "Special"
 }
