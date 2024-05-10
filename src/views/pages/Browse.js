@@ -12,15 +12,15 @@ let Browse = {
 
         let productMap = null;
 
-        let title = "All ";
+        let title = "";
 
         if(type == "droids") {
             productMap = productList.get('droids');
-            title += "droids";
+            title += " " + i18n.getString("browse", "nails");
         }
         else if(type == "vehicles") {
             productMap = productList.get('vehicles');
-            title += "vehicles";
+            title += " " + i18n.getString("browse", "tools");
         }
 
         //view is solely for HTML markup, contains no static text

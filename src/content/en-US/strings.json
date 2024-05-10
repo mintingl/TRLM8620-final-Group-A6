@@ -1,4 +1,12 @@
 {
+    "home":{
+        "welcome": "Welcome come to Nail it!"
+    },
+    "browse":{
+        "nails": "All Nails",
+        "tools": "All Tools"
+    },
+
     "title": {
         "1": "The Motto",
         "2": "Tea Party",
@@ -8,11 +16,12 @@
         "6": "3:00 AM",
         "7": "Nail File",
         "8": "10-Pack Nail Glue",
-        "9": "ETA-2 Interceptor",
-        "10": "R3-Series Droid",
-        "11": "T-70 X-Wing",
+        "9": "Tulip",
+        "10": "Don't Call Me",
+        "11": "Be Here Now",
         "12": "Y-Wing Fighter",
         "13": "Super Tactical Droid"
+        
     },
     "desc": {
         "1": "Here’s an exclusive line of the hottest nail designs that stay perfect for up to 7 days and at an affordable price. KISS Salon Design fake nails are a collection of salon quality, trendy designer nails that go on in an easy, one-step application.<br/>· On-trend glossy light multicolored glue-on designer nails are medium length & coffin shaped<br/>· Trendiest designs in the hottest shapes and lengths<br/>· Application takes minutes & wears up to a week<br/>· Nails are waterproof, no worries about color smudging or chipping, and no dry time needed!<br/>· Complete nail kit includes: 24 Fake Nails, Net Wt. 2 G (0.07 Oz.) Pink Gel Nail Glue, Mini File, & Manicure Stick",
@@ -23,10 +32,9 @@
         "6": "Explore the beauty of the season with KISS Voguish Fantasy Nails, designed to bring a touch of springtime to your fingertips. Bloom into effortless beauty, making your at-home DIY nail makeover a breeze.<br/>· On trend yellow floral design nails are medium length and oval shaped<br/>· Durable & flexible with high shine & volume and gel top coat<br/>· Look natural and last for up to 7 days<br/>· Waterproof, smudge proof, & no dry time needed<br/>· DIY nail kit contains 28 fake nails, pink gel nail glue net wt. 2 g (0.07oz.), mini nail file, and manicure stick",
         "7": "Get salon-worthy nails at home with the KISS Power File Rechargeable Nail File. This 11-Piece All-In-One Nail Care Kit includes everything you need for flawless manicures and pedicures: files, buffers, precision tools, and more. Ideal for DIY acrylic and gel nails. Stay organized with the included storage case.<br/>· Achieve spa quality manicure and pedicure results at home at a fraction of the cost of a salon treatment<br/>· All-In-One Nail File Care Kit has all you need to file, buff, and shape your nails as well as groom cuticles and eliminate calluses on hands and feet<br/>· Perfect for DIY acrylic and gel manicures<br/>· Storage case keeps tools protected & organized<br/>· Nail kit includes cone-shaped file, pointed detail file, precision tool, polishing disc, small & large fine and coarse grit discs, cuticle pusher, A/C adapter, and rechargeable cordless handle",
         "8": "Never be glueless again! Pink Gel Nail Glue (included in KISS false nail kits), now in a convenient value priced multipack. Fast drying adhesive for glue-on nails & repairs with nozzle tip applicator, ideal for fake nails.<br/>· Super strong instant bond gel dries in 3 seconds<br/>· Use to apply false nails and repair false and natural nails<br/>· No mess, spill-proof squeeze tubes, for home or on the go<br/>· Value-priced multipack saves you time & money<br/>· For nail salon professionals & DIY'ers at home",
-        "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
-        "10": "The R3-series astromech droid features much of the same hardware as its predecessor, the R2 unit, lacking only the earlier droid's extendible video sensor. The R3's chassis is largely cylindrical, appearing as an upright tube with a short, truncated cone at its base. Keeping the droid upright are two narrow legs, each of which terminate in a treaded foot shaped like trapezoidal prisms, a third leg is housed within the droid body and could be extended when necessary to afford greater stability. Capping the unit's design is a hardy, rotating, plastex or transparisteel dome. The astromech is sealed to allow for functionality in the vacuum of space.",
-        "11": "The T-70 X-wing starfighter is a cruciform starfighter measuring 12.48 meters in length with a maximum capacity of a single pilot and bottom-loaded astromech droid, which fits into a socket and can be variably configured for different models. If needed, the droid can fly the starfighter without the aid of a pilot, and can even do so remotely. The vessel's targeting computer, flight controls and other essential piloting instruments are located inside an armored cockpit module, under which a removable liquid-cooled flight computer further aids the pilot in ship-based operations. Access panels for computer access and storage exist inside the 'nose' of the vessel, along with an auxiliary generator and storage area typically used for stashing survival gear. A small sensor window marks the location of the ships primary sensor array at the very tip of the nosecone, located behind an emergency beacon. Behind the pilot, a built-in life support system allows the occupant to breathe in an oxygenated atmosphere.",
-        "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
+        "9": "Explore the beauty of the season with KISS Voguish Fantasy Nails, designed to bring a touch of springtime to your fingertips. Bloom into effortless beauty, making your at-home DIY nail makeover a breeze.<br/>· On trend pink floral design nails are medium length and oval shaped<br/>· Durable & flexible with high shine & volume and gel top coat<br/>· Look natural and last for up to 7 days<br/>· Waterproof, smudge proof, & no dry time needed<br/>· DIY nail kit contains 28 fake nails, pink gel nail glue net wt. 2 g (0.07oz.), mini nail file, and manicure stick",
+        "10": "KISS Gel Fantasy ready-to-wear gel finish Jelly nails have sheer color, 3D texture, and a colored glass-like effect that is beyond WOW! False nails in the chicest color and design mixes are ready-to-wear, durable, flexible, and so easy to apply!<br/>· On-trend blue translucent jelly nails are long length and coffin shaped<br/>· Hassle free removal won't damage your natural nails<br/>· Smudge-proof, waterproof, no dry time need, and hassle-free removal<br/>· Application takes minutes - up to 7-day wear<br/>· Kit includes 28 Fake Nails, Pink Gel Nail Glue (Net Wt. 2 G / 0.07oz.), Mini File, & Manicure Stick",
+        "11": "Experience the beauty of Allure! The latest Gel Fantasy false nails feature a brand new utilization of 3D design--a unique layering process that allows for multiple 3D nail art options to create on-trend graphic designs, shapes, and special effects.<br/>· Nude sculpted medium coffin fashion nails have a dazzling 3D gemstone effect<br/>· Ready-to-wear gel nails go on in minutes and stay perfect for up to a week<br/>· Durable, flexible, and they never dull or chip<br/>· Special effects include water drops, squiggles, marbleized, pearlized, and more<br/>· Complete nail kit includes 28 fake nails, pink gel nail glue (2g), cuticle stick, & mini nail file",
         "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
     },
     "Navbar": {
@@ -39,7 +47,7 @@
         "arrowAlt": "Drop Down Arrow",
         "cartAlt": "show cart",
         "navLinkHome": "HOME",
-        "navLinkDroids": "POP-ON NAILS",
+        "navLinkDroids": "PRESS-ON NAILS",
         "navLinkVehicles": "TOOLS"
     },
     "Home": {

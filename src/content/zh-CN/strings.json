@@ -1,4 +1,12 @@
 {
+    "home":{
+        "welcome": "Welcome come to Nail it!"
+    },
+    "browse":{
+        "nails": "All Nails",
+        "tools": "All Tools"
+    },
+
     "title": {
         "1": "座右铭",
         "2": "茶话会",
@@ -8,9 +16,9 @@
         "6": "凌晨3点",
         "7": "电动指甲锉套装",
         "8": "10支装指甲胶",
-        "9": "ETA-2 拦截机",
-        "10": "R3系列机器人",
-        "11": "T-70 X翼星际战斗机",
+        "9": "郁金香",
+        "10": "勿扰",
+        "11": "马上到",
         "12": "Y翼战斗机",
         "13": "超级战术机器人"
     },
@@ -23,9 +31,9 @@
         "6": "探索美季的美丽，用KISS Voguish Fantasy穿戴甲为您的指尖带来一丝春天的气息。轻松绽放美丽，让您的家庭DIY美甲变得轻而易举。<br/>· 时尚黄色花卉设计穿戴甲，中等长度，椭圆形状<br/>· 耐用柔软，高光泽和体积，凝胶面层<br/>· 看起来自然，持续七天<br/>· 防水、防晕染，无需干燥时间<br/>· DIY美甲套装包含28个穿戴甲，粉色凝胶指甲胶净重2克（0.07盎司），迷你指甲锉和修指器",
         "7": "使用KISS Power File可充电指甲锉，即可在家享受沙龙级美甲效果。这款11件全能指甲护理套装包括您完成完美美甲和美足所需的一切：指甲锉，抛光器，精密工具等等。非常适合DIY丙烯酸和凝胶指甲。随附的存储盒可保持整洁。<br/>· 在家实现spa级别的美甲和美足效果，价格仅为沙",
         "8": "永远不要再缺胶了！粉色凝胶指甲胶（包含在Nail It假指甲套装中），现在以方便实惠的多重包装形式提供。干得快的胶水，适用于胶贴指甲和修补，带有喷嘴尖的涂抹器，非常适合假指甲。<br/>· 超强瞬间粘合凝胶，3秒干燥<br/>· 用于贴假指甲和修补假指甲和真指甲<br/>· 无杂乱，防溢出的挤压管，家用或外出都方便<br/>· 实惠的多重包装省时省钱<br/>· 适用于美甲沙龙专业人士和在家DIY者",     
-        "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
-        "10": "The R3-series astromech droid features much of the same hardware as its predecessor, the R2 unit, lacking only the earlier droid's extendible video sensor. The R3's chassis is largely cylindrical, appearing as an upright tube with a short, truncated cone at its base. Keeping the droid upright are two narrow legs, each of which terminate in a treaded foot shaped like trapezoidal prisms, a third leg is housed within the droid body and could be extended when necessary to afford greater stability. Capping the unit's design is a hardy, rotating, plastex or transparisteel dome. The astromech is sealed to allow for functionality in the vacuum of space.",
-        "11": "The T-70 X-wing starfighter is a cruciform starfighter measuring 12.48 meters in length with a maximum capacity of a single pilot and bottom-loaded astromech droid, which fits into a socket and can be variably configured for different models. If needed, the droid can fly the starfighter without the aid of a pilot, and can even do so remotely. The vessel's targeting computer, flight controls and other essential piloting instruments are located inside an armored cockpit module, under which a removable liquid-cooled flight computer further aids the pilot in ship-based operations. Access panels for computer access and storage exist inside the 'nose' of the vessel, along with an auxiliary generator and storage area typically used for stashing survival gear. A small sensor window marks the location of the ships primary sensor array at the very tip of the nosecone, located behind an emergency beacon. Behind the pilot, a built-in life support system allows the occupant to breathe in an oxygenated atmosphere.",
+        "9": "KISS Voguish 幻想美甲让您的指尖绽放春日之美。<br/>· 时尚的粉色花朵设计指甲长度适中，呈椭圆形<br/>· 持久而富有弹性，具有高光泽度和丰盈感，表面涂有凝胶<br/>· 看起来自然，可保持 7 天<br/>· 防水、防晕染，无需干燥时间<br/>· DIY 美甲套装包含 28 枚假指甲、净重 2 克（0.07 盎司）的粉色凝胶甲胶、迷你指甲锉和美甲棒",
+        "10": "KISS Gel Fantasy 即用型凝胶饰面果冻甲具有纯粹的色彩、立体的质感和彩色玻璃般的效果，令人叹为观止！最时髦的颜色和设计组合的假指甲可随时穿戴，经久耐用，富有弹性，而且非常容易涂抹<br/>· 时尚的蓝色半透明果冻甲，长度长，呈棺材状<br/>· 拆卸方便，不会损坏您的天然指甲<br/>· 防污、防水、无需干燥时间，卸除也很方便<br/>· 只需几分钟即可完成涂抹 - 最长可佩戴 7 天<br/>· 套装包括 28 枚假指甲、粉色凝胶甲胶（净重 2 克/0.07 盎司）、迷你锉刀和美甲棒",
+        "11": "体验 Allure 之美！最新的 Gel Fantasy 假指甲采用了全新的 3D 设计--一种独特的分层工艺，可提供多种 3D 美甲选择，创造出时髦的图案设计、形状和特殊效果。<br/>· 裸色雕花中号棺材时尚指甲具有炫目的 3D 宝石效果<br/>· 几分钟即可完成凝胶甲的制作，完美效果可保持一周之久<br/>· 经久耐用，富有弹性，永不褪色或脱落<br/>· 特殊效果包括水滴、斜线、大理石纹、珠光等<br/>· 全套美甲套装包括 28 枚假指甲、粉色凝胶甲胶（2 克）、角质棒和迷你指甲锉",
         "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
         "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
     },

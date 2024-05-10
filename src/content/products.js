@@ -85,34 +85,37 @@ const products = {
             "imageURL": "img/10-Pack Nail Glue.png",
             "desc": i18n.getString("desc", "8")
         },
-        /*
+        
         {
             "productID" : 9,
-            "type": "vehicle",
+            "type": "droid",
             "title": i18n.getString("title", "9"),
-            "price": 200000,
+            "price": 8.99,
             "qty": 0,
-            "imageURL": "img/ETA-2.png",
+            "imageURL": "img/Tulip.png",
             "desc": i18n.getString("desc", "9")
         },
+        
         {
             "productID" : 10,
             "type": "droid",
             "title": i18n.getString("title", "10"),
-            "price": 3450,
+            "price": 8.99,
             "qty": 0,
-            "imageURL": "img/R3.png",
+            "imageURL": "img/Don't Call Me.png",
             "desc": i18n.getString("desc", "10")
         },
+        
         {
             "productID" : 11,
-            "type": "vehicle",
+            "type": "droid",
             "title": i18n.getString("title", "11"),
-            "price": 150000,
+            "price": 11.99,
             "qty": 0,
-            "imageURL": "img/T70.png",
+            "imageURL": "img/Be Here Now.png",
             "desc": i18n.getString("desc", "11")
         },
+        /*
         {
             "productID" : 12,
             "type": "vehicle",
