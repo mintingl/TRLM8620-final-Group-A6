@@ -1,4 +1,10 @@
 {
+    "order":{
+        "processing":"Processing",
+        "shipped":"Shipped",
+        "delivered":"Delivered"
+    },
+
     "home":{
         "welcome": "Welcome to Nail it!"
     },

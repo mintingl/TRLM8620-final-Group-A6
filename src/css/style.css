@@ -199,7 +199,7 @@ header section h2 {
   padding-bottom: 10px;
 }
 .dropdown .dropdown-content a:hover, .dropdown .dropdown-content h3:hover {
-  color: #44b0be;
+  color: #fb9afe;
 }
 .dropdown:hover .dropbtn {
   background-color: #6d7275;
@@ -567,7 +567,7 @@ nav ul li .activeLink::after {
 .checkout .checkoutDetails {
   box-shadow: 0 0 6px 0 #9bbeb6;
   border-radius: 10px;
-  background-color: #5af3d2;
+  background-color: #bbf4fcde;
   width: 95%;
   margin: auto;
   padding: 10px;
@@ -601,13 +601,13 @@ nav ul li .activeLink::after {
 }
 .checkout .checkoutDetails .shippingInfo {
   margin-top: 15px;
-  background-color: #bffff1;
+  background-color: #e0f6f9;
   border-radius: 10px;
   margin-bottom: 15px;
   padding: 10px;
 }
 .checkout .checkoutDetails .paymentInfo {
-  background-color: #bffff1;
+  background-color: #e0f6f9;
   border-radius: 10px;
   padding: 10px;
 }
@@ -616,7 +616,7 @@ nav ul li .activeLink::after {
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: auto;
-  background-color: #bffff1;
+  background-color: #bbf4fcde;
   box-shadow: 0 0 6px 0 #fee3ff;
   border-radius: 10px;
   padding: 10px;
@@ -661,7 +661,7 @@ label {
 }
 
 .checkoutInput {
-  color: #b4afb5;
+  color: #000000;
   font-family: "Montserrat", sans-serif;
   font-size: 95%;
   display: block;
@@ -729,13 +729,13 @@ button:focus {
 }
 
 .termsCheck {
-  background-color: #bffff1;
+  background-color: #e0f6f9;
   padding: 10px;
   border-radius: 10px;
   margin-top: 10px;
 }
 .termsCheck a {
-  background-color: #bffff1;
+  background-color: #f7f3c3;
   font-family: "Space Mono", monospace;
   color: black;
   text-decoration: none;
@@ -754,13 +754,13 @@ button:focus {
 }
 
 h1 {
-  color: #a96aab;
+  color: #fb9afe;
   font-family: "Audiowide", cursive;
   font-size: 200%;
 }
 
 h2 {
-  color: #cd97cf;
+  color: #fb9afe;
   font-family: "Audiowide", cursive;
   font-weight: 500;
   font-size: 140%;
