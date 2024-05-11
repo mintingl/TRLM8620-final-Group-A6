@@ -33,6 +33,7 @@ const i18n = {
         let formatted;
         let converted = convertCurrency(price);
         formatted = new Intl.NumberFormat(locale, { style: 'currency', currency: currencyMap[locale] }).format(converted); //$NON-NLS-L$ 
+        if (locale === "zh-CN") formatted = formatted.replace(/,/g, "");
         //return the formatted currency within template literal
         return `<h4>${formatted}</h4>`
 
