@@ -7,6 +7,7 @@ html, body, div, span, applet, object, iframe, t1, h1, h2, h3, h4, h5, h6, p, bl
   vertical-align: baseline;
 }
 
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block;
@@ -680,7 +681,7 @@ label {
   width: calc(100% - 100px);
   margin: auto;
   box-shadow: 0 0 6px 0 #bffff1;
-  background-color: #efbff0;
+  background-color: #e0f6f9de;
   border-radius: 10px;
   padding: 10px;
 }
@@ -755,14 +756,15 @@ button:focus {
 
 h1 {
   color: #fb9afe;
-  font-family: "Audiowide", cursive;
+  font-family: "Architects Daughter", cursive;
+  font-weight: 540;
   font-size: 200%;
 }
 
 h2 {
   color: #fb9afe;
-  font-family: "Audiowide", cursive;
-  font-weight: 500;
+  font-family: "Architects Daughter", cursive;
+  font-weight: 540;
   font-size: 140%;
 }
 
