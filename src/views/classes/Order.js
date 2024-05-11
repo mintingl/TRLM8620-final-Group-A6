@@ -18,15 +18,6 @@ class Order {
         this.total = total;
     }
 
-    getOrderDate() {
-        var dd = String(this.orderDate.getDate()).padStart(2, '0');
-        var mm = String(this.orderDate.getMonth() + 1).padStart(2, '0'); //January is 0!
-        var yyyy = this.orderDate.getFullYear();
-
-        let date = mm + '/' + dd + '/' + yyyy;
-        return i18n.formatDate(this.orderDate);
-    }
-
     //create a dummy "order status" string
     getOrderStatus() {
         //calculate diff
