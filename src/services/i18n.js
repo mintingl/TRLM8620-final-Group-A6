@@ -45,12 +45,7 @@ const i18n = {
     },
     //format date accoring to locale
     formatDate: (date) => {
-        switch (locale) {
-            case 'en-US':
-                return new Intl.DateTimeFormat('en-US').format(date); //$NON-NLS-L$;
-            case 'zh-CN':
-                return new Intl.DateTimeFormat('zh-CN').format(date)
-        }
+        return new Intl.DateTimeFormat(locale).format(date)
     }
 }
 
