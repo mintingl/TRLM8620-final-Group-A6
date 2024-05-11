@@ -623,7 +623,6 @@ nav ul li .activeLink::after {
   padding: 10px;
 }
 .checkout .checkoutCart h3 {
-  margin-top: 15px;
   text-align: center;
   color: black;
 }
@@ -644,6 +643,7 @@ nav ul li .activeLink::after {
 .checkout .checkoutCart .cartItem .cartPrice {
   display: flex;
   align-items: center;
+  margin-top: 8px
 }
 .checkout .checkoutCart .cartItem .cartPrice .gridPrice {
   margin-top: 0;
@@ -760,6 +760,7 @@ h1 {
   font-weight: 540;
   font-size: 200%;
 }
+
 
 h2 {
   color: #fb9afe;
